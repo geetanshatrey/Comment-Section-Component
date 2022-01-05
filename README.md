@@ -12,5 +12,5 @@
 
 ## App Screenshots
 
- | <img src="Documentation/CommentBox.png" width="500" height="250"> (Comment Box) | <img src="Documentation/ListOfComments.png" width="450" height="600"> (List of Comments) |
+ | <img src="Documentation/CommentBox.png" width="500" height="230"> (Comment Box) | <img src="Documentation/ListOfComments.png" width="450" height="600"> (List of Comments) |
  |:---:|:---:|
